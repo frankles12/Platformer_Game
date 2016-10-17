@@ -22,14 +22,14 @@ var GAME_LEVELS = [
    "xxxxxxx!!!!xxxxxxxx!!!!xxxxxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
    "xxxxxxx!!!!xxxxxxxx!!!!xxxxxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
    "xxxxxxx!!!!xxxxxxxx!!!!xxxxxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-   "xxxxxxx!!!!xxxxxxxx!!!!xxxxxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "xxxxxxx!!!!xxxxxxxx!!!!xxxxxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"],
    
    
    
    
-   "                                                                                ",
-   "                                                                                "],
-  ["                                      x!!x                        xxxxxxx                                    x!x  ",
+  ["                                                                                                                  ",
+   "                                                                                                                  ",
+   "                                      x!!x                        xxxxxxx                                    x!x  ",
    "                                      x!!x                     xxxx     xxxx                                 x!x  ",
    "                                      x!!xxxxxxxxxx           xx           xx                                x!x  ",
    "                                      xx!!!!!!!!!!xx         xx             xx                               x!x  ",
